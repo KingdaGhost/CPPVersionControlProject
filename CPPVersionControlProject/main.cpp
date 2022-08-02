@@ -1,7 +1,12 @@
 #include<iostream>
 
-int main()
+void greet()
 {
 	// Printing a message
 	std::cout << "Welcome\n\n\n";
+}
+
+int main()
+{
+	greet();
 }
