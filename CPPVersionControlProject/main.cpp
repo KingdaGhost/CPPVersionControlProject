@@ -8,5 +8,7 @@ void greet()
 
 int main()
 {
+	//this will result in conflict
 	greet();
+	//end of function
 }
